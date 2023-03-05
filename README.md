@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>My Name in CSS</title>
@@ -72,7 +71,7 @@
 </head>
 <body>
 	<div class="container">
-		<h1 class="name">CARLO</h1>
+		<h1 class="name">CARLO AGBONG</h1>
 	</div>
 </body>
 </html>
