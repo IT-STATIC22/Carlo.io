@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>My Name in CSS</title>
+	<title></title>
 	<style>
 		body {
 			background-color: #131516;
